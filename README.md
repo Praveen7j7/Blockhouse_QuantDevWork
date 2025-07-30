@@ -13,6 +13,8 @@ This C++ application reconstructs **MBP-10 (Market By Price, 10 levels)** order 
 ```bash
 g++ -O3 -Wall -Wextra -o reconstruction_mbo_mbp MainLogic.cpp
 
+### Run
+
 ```bash
 ./reconstruction_mbo_mbp.exe mbo.csv
 
